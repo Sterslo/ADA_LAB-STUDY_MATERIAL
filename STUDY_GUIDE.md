@@ -1,4 +1,4 @@
-# \ud83d\udcda ADA Lab - Complete Study Guide
+# ADA Lab - Complete Study Guide
 
 **Student**: Prexit Joshi (233118) | CSE 4th Sem, Section 2
 
