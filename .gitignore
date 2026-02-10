@@ -1,0 +1,25 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Binary folder
+bin/
+
+# IDE files
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
