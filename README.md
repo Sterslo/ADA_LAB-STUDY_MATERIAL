@@ -1,4 +1,4 @@
-# \ud83d\udcd6 ADA Lab - Complete Study Material
+# ADA Lab - Complete Study Material
 
 **Student Details:**
 - **Name**: Prexit Joshi
@@ -7,7 +7,7 @@
 
 ---
 
-## \ud83c\udfaf Quick Start Guide
+##Quick Start Guide
 
 **For Exam Preparation:**
 1. Open category folder (e.g., `sorting/`)
@@ -17,15 +17,15 @@
 5. Practice dry runs on paper
 
 **Each category README contains:**
-- \ud83d\udcdd Detailed algorithm explanations
-- \ud83d\udcca Complexity analysis with proofs
-- \ud83d\udcd0 Step-by-step dry run examples
-- \ud83d\udca1 Key points for exams
-- \ud83d\udcad Common interview questions
+- Detailed algorithm explanations
+- Complexity analysis with proofs
+- Step-by-step dry run examples
+- Key points for exams
+- Common interview questions
 
 ---
 
-## \ud83d\udcda Course Overview
+## Course Overview
 
 Complete implementation of **Analysis and Design of Algorithms (ADA)** lab programs with **comprehensive study notes** for each algorithm.
 
