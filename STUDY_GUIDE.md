@@ -4,69 +4,69 @@
 
 ---
 
-## \ud83c\udfaf How to Use This Repository for Exam Preparation
+##  How to Use This Repository for Exam Preparation
 
-### \ud83d\udcdd Study Order (Recommended):
+###  Study Order (Recommended):
 
-1. **Start with Basics** (\ud83d\udf31 Easy):
+1. **Start with Basics** :
    - [searching/README.md](searching/README.md) - Binary Search, Peak Finding
    - [divide-conquer/README.md](divide-conquer/README.md) - Max-Min
    - [sorting/README.md](sorting/README.md) - All sorting algorithms
 
-2. **Build Foundation** (\ud83c\udf3f Medium):
+2. **Build Foundation** :
    - [greedy/README.md](greedy/README.md) - Knapsack, Activity Selection
    - [graph/README.md](graph/README.md) - Dijkstra, MST algorithms
 
-3. **Master Complex Topics** (\ud83c\udf33 Advanced):
+3. **Master Complex Topics** :
    - [dynamic-programming/README.md](dynamic-programming/README.md) - DP problems
    - [backtracking/README.md](backtracking/README.md) - N-Queens
 
-4. **Specialized Algorithms** (\u2728 Bonus):
+4. **Specialized Algorithms** :
    - [advanced/README.md](advanced/README.md) - Strassen, Magic Square
    - [similarity/README.md](similarity/README.md) - Jaccard, Cosine
 
 ---
 
-## \ud83d\udcd6 What's in Each README?
+## What's in Each README?
 
 Each category folder has a detailed `README.md` with:
 
-### \ud83d\udcda Theory & Concepts
-- \u2705 Clear explanations of how algorithms work
-- \u2705 When to use which algorithm
-- \u2705 Design patterns and paradigms
+### Theory & Concepts
+- Clear explanations of how algorithms work
+- When to use which algorithm
+- Design patterns and paradigms
 
-### \ud83d\udcca Complexity Analysis
-- \u2705 Time complexity with derivations
-- \u2705 Space complexity
-- \u2705 Best/Average/Worst case scenarios
-- \u2705 Recurrence relations and Master Theorem
+### Complexity Analysis
+- Time complexity with derivations
+- Space complexity
+- Best/Average/Worst case scenarios
+- Recurrence relations and Master Theorem
 
-### \ud83d\udcd0 Detailed Examples
-- \u2705 Step-by-step dry runs
-- \u2705 Visual representations (ASCII art)
-- \u2705 Multiple examples for clarity
+### Detailed Examples
+- Step-by-step dry runs
+- Visual representations (ASCII art)
+- Multiple examples for clarity
 
-### \ud83d\udca1 Exam Preparation
-- \u2705 Key points to remember
-- \u2705 Common mistakes to avoid
-- \u2705 Interview questions with answers
-- \u2705 Comparison tables
+### Exam Preparation
+- Key points to remember
+- Common mistakes to avoid
+- Interview questions with answers
+- Comparison tables
 
-### \ud83d\udcbb Implementation
-- \u2705 Modern C++17 code
-- \u2705 Well-commented
-- \u2705 Ready to compile and run
+### Implementation
+- Modern C++17 code
+- Well-commented
+- Ready to compile and run
 
 ---
 
-## \ud83d\udcc4 Category-wise Content Summary
+## Category-wise Content Summary
 
-### 1. \ud83d\udd25 Sorting (6 algorithms)
+### 1. Sorting (6 algorithms)
 **File**: [sorting/README.md](sorting/README.md)
 
 **Covers**:
-- Bubble Sort - O(n\u00b2) with optimization
+- Bubble Sort - O with optimization
 - Selection Sort - Minimum swaps
 - Insertion Sort - Best for nearly sorted
 - Merge Sort - Guaranteed O(n log n)
@@ -75,11 +75,9 @@ Each category folder has a detailed `README.md` with:
 
 **Study Time**: 2-3 hours
 
-**Exam Weight**: \u2b50\u2b50\u2b50\u2b50\u2b50 (Very High)
-
 ---
 
-### 2. \ud83d\udd0d Searching (3 algorithms)
+### 2. Searching (3 algorithms)
 **File**: [searching/README.md](searching/README.md)
 
 **Covers**:
@@ -90,7 +88,7 @@ Each category folder has a detailed `README.md` with:
 
 **Study Time**: 1-2 hours
 
-**Exam Weight**: \u2b50\u2b50\u2b50\u2b50 (High)
+**Exam Weight**: (High)
 
 ---
 
@@ -105,11 +103,11 @@ Each category folder has a detailed `README.md` with:
 
 **Study Time**: 1 hour
 
-**Exam Weight**: \u2b50\u2b50\u2b50 (Medium)
+**Exam Weight**: (Medium)
 
 ---
 
-### 4. \ud83c\udf10 Graph Algorithms (4 algorithms)
+### 4. Graph Algorithms (4 algorithms)
 **File**: [graph/README.md](graph/README.md)
 
 **Covers**:
@@ -122,11 +120,11 @@ Each category folder has a detailed `README.md` with:
 
 **Study Time**: 3-4 hours
 
-**Exam Weight**: \u2b50\u2b50\u2b50\u2b50\u2b50 (Very High)
+**Exam Weight**: (Very High)
 
 ---
 
-### 5. \ud83d\udce6 Dynamic Programming (4 problems)
+### 5. Dynamic Programming (4 problems)
 **File**: [dynamic-programming/README.md](dynamic-programming/README.md)
 
 **Covers**:
@@ -138,11 +136,11 @@ Each category folder has a detailed `README.md` with:
 
 **Study Time**: 4-5 hours (Most Complex!)
 
-**Exam Weight**: \u2b50\u2b50\u2b50\u2b50\u2b50 (Very High)
+**Exam Weight**: (Very High)
 
 ---
 
-### 6. \ud83d\udcb0 Greedy Algorithms (2 problems)
+### 6. Greedy Algorithms (2 problems)
 **File**: [greedy/README.md](greedy/README.md)
 
 **Covers**:
@@ -153,11 +151,11 @@ Each category folder has a detailed `README.md` with:
 
 **Study Time**: 1-2 hours
 
-**Exam Weight**: \u2b50\u2b50\u2b50\u2b50 (High)
+**Exam Weight**: (High)
 
 ---
 
-### 7. \u267b\ufe0f Backtracking (1 problem)
+### 7. Backtracking (1 problem)
 **File**: [backtracking/README.md](backtracking/README.md)
 
 **Covers**:
@@ -168,11 +166,11 @@ Each category folder has a detailed `README.md` with:
 
 **Study Time**: 2 hours
 
-**Exam Weight**: \u2b50\u2b50\u2b50\u2b50 (High)
+**Exam Weight**: (High)
 
 ---
 
-### 8. \u2728 Advanced Algorithms (2 algorithms)
+### 8. Advanced Algorithms (2 algorithms)
 **File**: [advanced/README.md](advanced/README.md)
 
 **Covers**:
@@ -182,11 +180,11 @@ Each category folder has a detailed `README.md` with:
 
 **Study Time**: 1-2 hours
 
-**Exam Weight**: \u2b50\u2b50\u2b50 (Medium)
+**Exam Weight**: (Medium)
 
 ---
 
-### 9. \ud83d\udcca Similarity Metrics (2 metrics)
+### 9.  Similarity Metrics (2 metrics)
 **File**: [similarity/README.md](similarity/README.md)
 
 **Covers**:
@@ -197,13 +195,13 @@ Each category folder has a detailed `README.md` with:
 
 **Study Time**: 1 hour
 
-**Exam Weight**: \u2b50\u2b50 (Low-Medium)
+**Exam Weight**: (Low-Medium)
 
 ---
 
-## \u23f1\ufe0f Exam Preparation Timeline
+## Exam Preparation Timeline
 
-### \ud83d\udfe2 1 Week Before Exam:
+### 1 Week Before Exam:
 
 **Day 1-2**: Sorting + Searching (Foundation)
 - Complete [sorting/README.md](sorting/README.md)
@@ -225,18 +223,18 @@ Each category folder has a detailed `README.md` with:
 - Backtracking ([backtracking/README.md](backtracking/README.md))
 - Quick review of all
 
-### \ud83d\udfe1 1 Day Before Exam:
+### 1 Day Before Exam:
 
 1. **Quick revision of key algorithms** (3 hours)
 2. **Practice complexity analysis** (1 hour)
 3. **Memorize important formulas** (1 hour)
-4. **Sleep well!** \ud83d\ude34
+4. **Sleep well!** 
 
 ---
 
-## \ud83c\udfaf Must-Know for Exam
+## Must-Know for Exam
 
-### \ud83d\udcdd Algorithms to Memorize:
+### Algorithms to Memorize:
 
 1. **Binary Search** - Most basic, must know perfectly
 2. **Merge Sort** - Complete working
@@ -247,14 +245,14 @@ Each category folder has a detailed `README.md` with:
 7. **MCM** - Recurrence relation
 8. **N-Queens** - Backtracking pattern
 
-### \ud83d\udcca Complexity Analysis Must-Know:
+### Complexity Analysis Must-Know:
 
 - **Master Theorem** - All three cases
 - **Recurrence Relations** - How to solve
-- **Big-O, \u03a9, \u0398** - Definitions
+- **Big-O - Definitions
 - **Best/Average/Worst** - For each sorting algorithm
 
-### \ud83d\udca1 Comparison Questions:
+### Comparison Questions:
 
 Prepare comparisons between:
 - Bubble vs Insertion vs Selection
@@ -267,7 +265,7 @@ Prepare comparisons between:
 
 ---
 
-## \u2699\ufe0f How to Compile and Run
+## How to Compile and Run
 
 ### Single Program:
 ```bash
@@ -292,9 +290,9 @@ g++ -std=c++17 -O2 -o knapsack.exe dynamic-programming/0-1knapusingdptable.cpp
 
 ---
 
-## \ud83d\udcdd Exam Strategy
+## Exam Strategy
 
-### \u2705 Theory Questions:
+### Theory Questions:
 
 1. **Read question carefully** - Note keywords (best case, worst case, etc.)
 2. **State time complexity first** - Shows you know the answer
@@ -302,7 +300,7 @@ g++ -std=c++17 -O2 -o knapsack.exe dynamic-programming/0-1knapusingdptable.cpp
 4. **Show all steps** - Partial marks for method
 5. **Write recurrence relation** - For recursive algorithms
 
-### \u2705 Coding Questions:
+### Coding Questions:
 
 1. **Write algorithm in pseudocode first** - Shows understanding
 2. **Mention complexity** - Time and space
@@ -310,7 +308,7 @@ g++ -std=c++17 -O2 -o knapsack.exe dynamic-programming/0-1knapusingdptable.cpp
 4. **Use proper variable names** - Shows clarity
 5. **Add comments** - Explain key steps
 
-### \u2705 Dry Run Questions:
+### Dry Run Questions:
 
 1. **Make a table** - Organized presentation
 2. **Show each iteration** - Step-by-step
@@ -320,15 +318,15 @@ g++ -std=c++17 -O2 -o knapsack.exe dynamic-programming/0-1knapusingdptable.cpp
 
 ---
 
-## \u26a0\ufe0f Common Mistakes to Avoid
+## Common Mistakes to Avoid
 
-1. \u274c Forgetting base cases in recursion
-2. \u274c Integer overflow in mid calculation (use `low + (high-low)/2`)
-3. \u274c Mixing up Kruskal (edge-centric) and Prim (vertex-centric)
-4. \u274c Thinking greedy works for 0-1 Knapsack (it doesn't!)
-5. \u274c Forgetting to backtrack in N-Queens
-6. \u274c Wrong order in DP table filling
-7. \u274c Negative weights with Dijkstra (use Floyd-Warshall)
+1. Forgetting base cases in recursion
+2. Integer overflow in mid calculation (use `low + (high-low)/2`)
+3. Mixing up Kruskal (edge-centric) and Prim (vertex-centric)
+4. Thinking greedy works for 0-1 Knapsack (it doesn't!)
+5. Forgetting to backtrack in N-Queens
+6. Wrong order in DP table filling
+7. Negative weights with Dijkstra (use Floyd-Warshall)
 
 ---
 
@@ -347,7 +345,7 @@ g++ -std=c++17 -O2 -o knapsack.exe dynamic-programming/0-1knapusingdptable.cpp
 
 ---
 
-## \u2705 Self-Assessment Checklist
+## Self-Assessment Checklist
 
 Before exam, can you:
 
@@ -386,17 +384,16 @@ Before exam, can you:
 
 ---
 
-## \ud83c\udf93 Final Tips
+## Final Tips
 
 1. **Practice on paper** - Exams are written, not coded
 2. **Time management** - Don't spend too long on one question
 3. **Attempt all questions** - Partial marks count
 4. **Revise one day before** - Don't learn new things last minute
-5. **Stay calm** - You've got this! \ud83d\ude80
-
+5. **Stay calm** - You've got this! 
 ---
 
-## \ud83d\udcde Need Help?
+## Need Help?
 
 **Stuck on a concept?**
 1. Read the relevant README again
@@ -406,11 +403,11 @@ Before exam, can you:
 
 ---
 
-**Good luck with your exam preparation! \ud83c\udf93\u2728**
+**Good luck with your exam preparation! **
 
 **Remember**: Consistent practice > Last-minute cramming
 
 ---
 
 *Study smart, not just hard!*  
-\u2013 Prexit Joshi (233118)
+Prexit Joshi (233118)
