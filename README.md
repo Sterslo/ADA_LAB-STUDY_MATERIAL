@@ -7,7 +7,7 @@
 
 ---
 
-##Quick Start Guide
+## Quick Start Guide
 
 **For Exam Preparation:**
 1. Open category folder (e.g., `sorting/`)
